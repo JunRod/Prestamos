@@ -1,2 +1,2 @@
-# Prestamos
-Aplicacion Web de Prestamos
+# Aplicación web hecha con React
+prestamoss.netlify.app
